@@ -1,0 +1,7 @@
+data/*
+generated_images/
+log/
+output/
+results/
+container.def
+container.sif
