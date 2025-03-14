@@ -4,7 +4,6 @@ This repository contains code for training and evaluating Flow Matching (FM) and
 
 ## Table of Contents
 
-- [Requirements](#requirements)
 - [Dataset](#dataset)
 - [Training](#training)
 - [Generating Samples](#generating-samples)
